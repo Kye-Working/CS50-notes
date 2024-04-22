@@ -1,0 +1,96 @@
+ 
+ ----------------------------------------------------------------------
+
+Week 0 - ( Scratch )
+
+Notes :
+    - General over view of course
+    - ASCII - 0 & 1 used to represent numbers & letters
+    - Unicode - Expands number of bits that can be transmitted
+        and understood by computers allowing for special characters
+        and emojis to be transmitted
+    - Basics of Scratch
+    
+Problem sets :
+    • Submit scratch game | INCOMPLETE |
+
+ ----------------------------------------------------------------------
+
+Week 1 - ( C )
+
+Notes :
+    - Function - code that preforms a task
+    - data types (e.g int, string, long, char)
+    - Placeholder - used to print varibles 
+        (e.g %d : int | %s : string)
+    - conditionals - allows computer to make decision 
+        (e.g if | else if | else)
+    - loops
+        .while
+        .do{} while
+        .for()
+    - operators (e.g +,-,*,/,%)
+    - Linux - an operating system accessible vis the command line
+        (common commands - cd,ls,mkdir)
+    
+
+Problem sets :
+    • Hello, it's Me ✔
+    • Mario-less ✔
+    • Mario-more ✔
+    • Cash ✔
+    • Credit | INCOMPLETE |
+
+ ----------------------------------------------------------------------
+
+Week 2 - ( Arrays )
+
+Notes :
+    -compiling - process of converting human-readable code into
+        machine-readable
+    -Debugging - process of identiying and removing errors
+    -Array - a way of storing data back-to-back in memory
+        .int scores[1];
+          scores[0] = get_int();
+        .int scores[] = {};    
+    -Strings - are an array of variables
+
+Problem sets :
+    • Scrabble ✔
+    • Readability 
+    • Caesar
+    • Substitution
+
+ ----------------------------------------------------------------------
+
+Week 3 - ( Algorithms )
+
+Notes :
+    - Linear search - searches through each element 
+        from one end to the other
+    - Binary search - finds element within sorted array
+    -
+
+
+Problem sets :
+    •
+
+ ----------------------------------------------------------------------
+
+Week 4 - ( Memory )
+
+Notes :
+    -
+
+Problem sets :
+    •
+
+
+
+Week 5 - ( Data Structures )
+
+Notes :
+    -
+
+Problem sets :
+    •
