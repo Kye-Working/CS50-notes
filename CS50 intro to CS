@@ -39,7 +39,7 @@ Problem sets :
     • Mario-less ✔
     • Mario-more ✔
     • Cash ✔
-    • Credit | INCOMPLETE |
+    • Credit 
 
  ----------------------------------------------------------------------
 
@@ -57,8 +57,8 @@ Notes :
 
 Problem sets :
     • Scrabble ✔
-    • Readability 
-    • Caesar
+    • Readability ✔
+    • Caesar ✔
     • Substitution
 
  ----------------------------------------------------------------------
@@ -69,11 +69,30 @@ Notes :
     - Linear search - searches through each element 
         from one end to the other
     - Binary search - finds element within sorted array
-    -
-
+    - Big O notation - looks at the effiency of code in terms of,
+        comparing time to solve & size of the problem
+    - strcmp( x , y ) - compares strings and produces 
+                            0 if true & 1 if false (acts as a boolean)
+    - struct{} - allows for groups of varibles in one place
+    - typedef {} - lets you define your own identifiers
+        .typedef struct
+                {
+                    string name;
+                    string number;
+                }
+                person;
+    - Bubble sort - sorting by repeatedly swapping elements, with the
+                        larger element being move the end
+    - recursion - a program where a function calls itself
+    - merge sorting - Split array in half, split subarrays inot half,
+                        merging unit lengths cells into sorted subarrays
+                            & then merging sorted subarrays into sorted array
 
 Problem sets :
-    •
+    • Sort
+    • Plurality
+    • Runoff
+    • Tideman
 
  ----------------------------------------------------------------------
 
@@ -85,6 +104,7 @@ Notes :
 Problem sets :
     •
 
+ ----------------------------------------------------------------------
 
 
 Week 5 - ( Data Structures )
@@ -94,3 +114,45 @@ Notes :
 
 Problem sets :
     •
+
+ ----------------------------------------------------------------------
+
+Week 6 - (  )
+
+Notes :
+    -
+
+Problem sets :
+    •
+
+ ----------------------------------------------------------------------
+
+Week 7 - (  )
+
+Notes :
+    -
+
+Problem sets :
+    •
+
+ ----------------------------------------------------------------------
+ 
+ Week 8 - (  )
+
+ Notes :
+     -
+ 
+ Problem sets :
+     •
+ 
+ ----------------------------------------------------------------------
+ 
+ Week 9 - (  )
+
+ Notes :
+    -
+
+ Problem sets :
+    •
+
+ ----------------------------------------------------------------------
